@@ -17,7 +17,7 @@
     "@polymer/iron-location": "3.0.1",
     "@polymer/iron-media-query": "3.0.1",
     "@polymer/iron-meta": "3.0.1",
-    "@polymer/iron-overlay-behavior": "3.0.2",
+    "@polymer/iron-overlay-behavior": "3.0.3",
     "@polymer/iron-pages": "3.0.1",
     "@polymer/iron-range-behavior": "3.0.1",
     "@polymer/iron-resizable-behavior": "3.0.1",
