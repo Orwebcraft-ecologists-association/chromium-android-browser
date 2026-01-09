@@ -31,7 +31,7 @@
     "@polymer/paper-spinner": "3.0.2",
     "@polymer/paper-styles": "3.0.1",
     "@polymer/paper-tooltip": "3.0.1",
-    "@polymer/polymer": "3.5.0",
+    "@polymer/polymer": "3.5.2",
     "@webcomponents/shadycss": "1.9.1"
   },
   "devDependencies": {
